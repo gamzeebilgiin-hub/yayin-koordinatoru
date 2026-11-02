@@ -1,0 +1,7 @@
+﻿"id","channelId","channel","platform","color","title","format","production","upload","publication","plannedAt","platformPlannedAt","publishedAt","verifiedAt","url","source","asset","notes","archived"
+"demo-1","demo-studio","Stüdyo Atlas","YouTube","#6d5ce7","Bir şehrin görünmeyen hikâyesi","Uzun video","ready","uploaded","scheduled","2026-11-04T20:30","","","","","Sentetik demo kaydı","","Kapak ve açıklama hazır.","false"
+"demo-2","demo-minik","Minik Keşifler","YouTube","#e79a3b","Renklerin küçük dünyası","Uzun video","in_progress","not_uploaded","unpublished","2026-11-06T10:00","","","","","Sentetik yerel plan","","Seslendirme ve son kurgu bekleniyor.","false"
+"demo-3","demo-doga","Doğa Günlüğü","Instagram","#319b83","Sabahın ilk ışıkları","Reels","ready","unknown","unknown","2026-11-03T18:00","","","","","Sentetik yerel plan","","","false"
+"demo-4","demo-studio","Stüdyo Atlas","YouTube","#6d5ce7","Sahne arkasından 30 saniye","Shorts","ready","uploaded","published","2026-11-02T18:00","","2026-11-02T18:00","","","Sentetik yayın örneği","","Bu içerik gerçek bir kanala ait değildir.","false"
+"demo-5","demo-minik","Minik Keşifler","YouTube","#e79a3b","Şekilleri birlikte tanıyalım","Shorts","draft","not_uploaded","unpublished","2026-11-08T13:00","","","","","Sentetik yerel plan","","","false"
+"demo-6","demo-doga","Doğa Günlüğü","Instagram","#319b83","Yağmurdan sonra","Reels","draft","not_uploaded","unknown","","","","","","Sentetik fikir havuzu","","","false"

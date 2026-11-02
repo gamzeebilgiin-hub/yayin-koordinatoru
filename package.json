@@ -1,0 +1,1 @@
+{"name":"yayin-koordinatoru","version":"0.1.0","private":true,"type":"module","description":"Local-first multi-channel publishing planner","license":"MIT","scripts":{"start":"node server.mjs","test":"node --test tests/*.test.mjs","check":"node --check dist/app.js && node --check dist/model.js"},"engines":{"node":">=20"}}
